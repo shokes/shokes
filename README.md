@@ -17,7 +17,7 @@ Hello world 👋, I’m Oshoke Oyati, a meticulous Frontend Developer currently 
 
 Proficient in vanilla javascript, hence can easily adapt to any of its frameworks depending on the requirements of the job. I'm thrilled by logic; and I solve problems for fun. When I'm not working I'm either watching football games, catching up on my latest shows, listening to music or surfing the internet.
 
-Some my projects are available here: https://oshoke.vercel.app/
+Some of my projects are available here: https://oshoke.vercel.app/
 
 ---
 
