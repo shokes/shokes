@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=shokes&style=flat-square&color=blue" alt=""/>
+
 
 
 Hello world 👋, I’m Oshoke Oyati, a meticulous Frontend Developer currently based in Nigeria and I enjoy what I do. I am passionate about solving complex problems with responsive website design. 
