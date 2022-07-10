@@ -13,7 +13,7 @@
 
 
 
-Hello world 👋, I’m Oshoke Oyati, a meticulous Frontend Developer currently based in Nigeria and I enjoy what I do. I am passionate about solving complex problems with responsive website design. 
+Hi, I’m Oshoke Oyati, a meticulous Frontend Developer. I am passionate about solving complex problems with responsive website design. 
 
 Proficient in vanilla javascript, hence can easily adapt to any of its frameworks depending on the requirements of the job. I'm thrilled by logic; and I solve problems for fun. When I'm not working I'm either watching football games, catching up on my latest shows, listening to music or surfing the internet.
 
