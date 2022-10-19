@@ -10,14 +10,7 @@
   </a>
 </div>
 
-
-
-
-Hi, I’m Oshoke Oyati, a meticulous Frontend Developer. I am passionate about solving complex problems with responsive website design. 
-
-Proficient in vanilla javascript, hence can easily adapt to any of its frameworks depending on the requirements of the job. I'm thrilled by logic; and I solve problems for fun.
-
-Some of my projects are available here: https://oshoke.vercel.app/
+you can visit my portfolio website https://oshoke.vercel.app/
 
 ---
 
@@ -28,19 +21,6 @@ Some of my projects are available here: https://oshoke.vercel.app/
 
 
 ---
-
-### :hammer_and_wrench: Languages and Libraries :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
-
-
-
-
 
 <!--
 **shokes/shokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
