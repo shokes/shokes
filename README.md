@@ -12,10 +12,6 @@
 
 you can visit my portfolio website https://oshoke.vercel.app/
 
----
-
-
----
 
 <!--
 **shokes/shokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
