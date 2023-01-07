@@ -7,7 +7,7 @@ Hello there! My name is Oshoke (friends & family call me Shokes) and I'm a front
 HTML/CSS, TailwindCSS,  Styled Components, JavaScript, TypeScript, ReactJs, Redux, NextJs, React Testing Library, Firebase, Jest, GraphQL, Framer Motion.
 
 
-you can visit my portfolio website https://oshoke.vercel.app/
+You can visit my portfolio website - https://oshoke.vercel.app/
 
 
 
