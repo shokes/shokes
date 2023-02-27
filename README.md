@@ -1,5 +1,5 @@
 
-## Tools
+### Tools
 
 HTML/CSS, TailwindCSS,  Styled Components, JavaScript, TypeScript, ReactJS, Redux, NextJS, React Testing Library, Firebase, Jest, GraphQL, Framer Motion.
 
