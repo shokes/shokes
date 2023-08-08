@@ -5,7 +5,6 @@ HTML/CSS, TailwindCSS, Styled Components, JavaScript, TypeScript, ReactJS, NextJ
 
 
 
-You can visit my portfolio website - https://oshoke.vercel.app/
 
 
 
